@@ -72,7 +72,10 @@ Test results on CH-SIMS
 
 
 ## Citation
-- It will be updated.
+Dang-Khanh Nguyen, Eunchae Lim, Soo-Hyung Kim, Hyung-Jeong Yang, Seungwon Kim, "Enhanced Emotion Recognition Through Dynamic Restrained Adaptive Loss and Extended Multimodal Bottleneck Transformer" Applied Sciences, vol. 15, no. 5: 2862, 2025.03
+
+- Paper: https://doi.org/10.3390/app15052862
+
 
 
 
